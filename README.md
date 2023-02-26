@@ -4,7 +4,7 @@
 Đây là thư viện của đồ án tốt nghiệp. Thuật toán được phát triển dựa trên thuật toán đổ xô theo bầy của Raynold. Ứng dụng trên các robot có các cảm biến
 rời rạc.
 
-- ### Phần mềm sử dụng: Webots, Matlab, Visual Studio.
+- ### Phần mềm yêu cầu: Webots, Matlab, Visual Studio.
 - ### Ngôn ngữ: C++, Matlab.
 - ### Robot: Mô hình robot hai bánh vi sai, robot e-puck, robot trong bị động cơ di chuyển, và chỉ sử dụng hai loại cảm biến: La bàn số và Cảm biến khoảng cách.
 ## Mục tiêu: 
