@@ -32,9 +32,13 @@ Mô tả robot với cảm biến rời rạc là các tia như hình
 <img src = "https://github.com/ndamtruong2k/thesisFlocking/blob/main/src/H%C3%A0nh%20vi%20%C4%91%E1%BB%93ng%20b%E1%BB%99%20h%C6%B0%E1%BB%9Bng.png" width = "300">
 
 ## 3. Video kết quả:
+
 #### 3.1. Bầy robot chạy theo đường thằng
-[![Watch the video](https://img.youtube.com/vi/WWOYKLh3Vig/maxresdefault.jpg)](https://youtu.be/WWOYKLh3Vig)
+
+[![Watch the video](https://img.youtube.com/vi/5Meb0rCZP5w/maxresdefault.jpg)](https://youtu.be/5Meb0rCZP5w)
+
 #### 3.2. Bầy robot di chuyển theo hình vuông
 
+[![Watch the video](https://img.youtube.com/vi/WWOYKLh3Vig/maxresdefault.jpg)](https://youtu.be/WWOYKLh3Vig)
 
 
